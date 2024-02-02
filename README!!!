@@ -1,0 +1,1 @@
+The main FSM and output is developed in ECE319K_Lab4main.c, this lab utilized the MSPM0G3507 cortex Microcontroller and Code Composer Studio to compile and run the .c file.
